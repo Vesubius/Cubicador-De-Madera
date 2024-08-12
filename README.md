@@ -1,4 +1,8 @@
 # Cubicador de Madera
+![Descripción de la imagen](app/src/main/res/drawable/home.png)
+![Descripción de la imagen](app/src/main/res/drawable/tucas.png)
+![Descripción de la imagen](app/src/main/res/drawable/Cuadro.png)
+
 
 Este proyecto es una herramienta desarrollada en Android Studio que permite realizar operaciones de cubicación de madera, facilitando el cálculo de volúmenes y ayudando a profesionales de la industria maderera. Fue creado como una solución práctica para las necesidades de cubicación en el trabajo de campo.
 
