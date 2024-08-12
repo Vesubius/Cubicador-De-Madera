@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cubicador De Madera</string>
+    <string name="Tucas">Cubicando en Tucas</string>
+    <string name="largo">Digite el largo</string>
+    <string name="Diametro">Digite el diametro</string>
+
+    <string name="nombreEmpresarial">Cubicador JOKRIJO</string>
+    <string name="introduce_el_diametro">Introduce el diametro</string>
+    <string name="digite_el_largo">Digite el largo</string>
+</resources>
