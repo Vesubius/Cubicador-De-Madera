@@ -1,7 +1,3 @@
-Aquí tienes un posible README para el proyecto "Cubicador-De-Madera":
-
----
-
 # Cubicador de Madera
 
 Este proyecto es una herramienta desarrollada en Android Studio que permite realizar operaciones de cubicación de madera, facilitando el cálculo de volúmenes y ayudando a profesionales de la industria maderera. Fue creado como una solución práctica para las necesidades de cubicación en el trabajo de campo.
@@ -38,6 +34,3 @@ Las contribuciones son bienvenidas. Puedes hacer un fork del repositorio y envia
 
 Este proyecto está licenciado bajo la MIT License.
 
----
-
-Este README proporciona una visión general del proyecto, sus características, y cómo configurarlo y usarlo. Si necesitas añadir más detalles específicos o cambios, estaré encantado de ayudarte.
